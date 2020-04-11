@@ -1,0 +1,2 @@
+# myNews
+Show the news
